@@ -90,8 +90,6 @@ If the tutorial option is enabled, follow the on-screen instructions to understa
 - Trials will proceed automatically unless self-guided mode is enabled.
 - Use the arrow keys to make selections during the response phases.
 
----
-
 ## Experiment Details
 
 ### Trial Structure
@@ -153,8 +151,6 @@ If the tutorial option is enabled, follow the on-screen instructions to understa
 - Current context (mapping of color to task).
 - Running accuracy score.
 
----
-
 ## Dependencies
 
 - **Python 3.x**
@@ -163,14 +159,10 @@ If the tutorial option is enabled, follow the on-screen instructions to understa
 - **NumPy:** For numerical operations.
 - **Pandas:** For data handling and CSV output.
 
----
-
 ## Credits
 
 - **Author:** Sahil  
 - **Lab Affiliation:** Halassa Lab, 2024
-
----
 
 ## License
 
